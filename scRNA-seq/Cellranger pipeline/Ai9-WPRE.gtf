@@ -1,0 +1,3 @@
+tdtomato	ensembl	exon	1	1431	.	+	.	gene_id "tdtomato"; transcript_id "tdtomato"; gene_name "tdtomato";
+wpre	ensembl	exon	1	894	.	+	.	gene_id "wpre"; transcript_id "wpre"; gene_name "wpre";
+Neo	ensembl	exon	1	1834	.	+	.	gene_id "Neo"; transcript_id "Neo"; gene_name "Neo";
